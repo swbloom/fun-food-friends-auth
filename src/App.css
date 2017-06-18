@@ -9,6 +9,10 @@ header {
   padding: 33px 0 25px 15px;
 }
 
+header p {
+  width: 400px;
+  margin: 0 auto;
+}
 header .wrapper {
   display: flex;
   justify-content: space-between;
